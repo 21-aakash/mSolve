@@ -21,3 +21,4 @@ function showAns(qNo){
     }
     document.getElementById(qNo).classList.add("activeQ");
 };
+

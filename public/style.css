@@ -846,7 +846,8 @@ footer {
     z-index: 6;
     background-color: #646eff;
     border-radius: 25px;
-    display: flex;
+    display: none;
+    /* PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP    F l e x     OOOOOOOOOOOOOOOOOOOOOOooooooooo */
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
@@ -875,3 +876,6 @@ footer {
     top: 15px;
     color: #000;
 }
+/* #msg{
+    display: none;
+} */

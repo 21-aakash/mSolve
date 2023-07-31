@@ -1,0 +1,12 @@
+font-family: 'Cairo', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+<script src="https://cdn.lordicon.com/bhenfmcm.js"></script>
+<lord-icon
+    src="https://cdn.lordicon.com/vnioezyi.json"
+    trigger="hover"
+    colors="outline:#121331,primary:#4bb3fd"
+    style="width:250px;height:250px">
+</lord-icon>
